@@ -1,75 +1,69 @@
-# E-commerce Sales Dashboard
+# Netflix Movies & TV Shows Analysis
 
-## 📊 Project Overview
-A comprehensive data visualization dashboard designed to track online sales performance and identify revenue optimization opportunities across product lines, regions, and time periods.
+## 🎬 Project Overview
+A comprehensive data analysis project exploring Netflix's catalog of movies and TV shows to uncover insights about content trends, genre popularity, ratings distribution, and regional content availability.
 
 ## 🎯 Purpose
-To enable data-driven decision making for e-commerce operations by providing actionable insights into sales patterns, customer behavior, and regional performance.
+To analyze Netflix's content library and provide data-driven insights that can inform content acquisition, production decisions, and user engagement strategies.
 
 ## 🔍 Key Insights You'll Discover
 
-### **Product Performance**
-- Best-selling products and categories
-- Revenue distribution across product types
-- Identification of underperforming products
+### **Content Composition**
+- Movie vs. TV show distribution
+- Content addition trends over time
+- Release patterns across decades
+- Content duration analysis
 
-### **Temporal Patterns**
-- Peak sales seasons and days
-- Monthly and daily sales trends
-- Optimal timing for promotions
+### **Genre Analysis**
+- Most popular genres and categories
+- Genre combinations and patterns
+- Content diversity across regions
+- Emerging genre trends
 
-### **Geographic Analysis**
-- Top-performing regions and countries
-- Regional revenue distribution
-- Market penetration opportunities
+### **Rating Insights**
+- Distribution of content ratings
+- Target audience analysis
+- Regional rating variations
+- Content maturity trends
 
-### **Customer Insights**
-- Purchase patterns and behaviors
-- Average order value trends
-- Transaction frequency analysis
+### **Geographic Distribution**
+- Country-specific content libraries
+- Regional content preferences
+- International vs. domestic content
+- Content availability disparities
 
-## 🚀 Business Outcomes & Applications
+#### **Dashboard Components**
+- **Overview Metrics**: Total titles, movies, shows
+- **Time Trends**: Content growth over years
+- **Genre Explorer**: Interactive genre analysis
+- **Geographic Heatmap**: Content by country
+- **Rating Analysis**: Audience targeting insights
+- **Content Timeline**: Release patterns visualization
 
-### **Inventory Optimization**
-- Stock prioritization for top-performing products
-- Safety stock calculations for peak seasons
-- Inventory redistribution based on regional demand
-- Reduction of slow-moving inventory
-
-### **Promotional Strategy**
-- Schedule promotions during identified peak periods
-- Time-limited offers aligned with buying patterns
-- Seasonal campaign planning
-- Flash sale timing optimization
-
-### **Marketing Focus**
-- Targeted campaigns in high-performing regions
-- Budget allocation based on ROI by region
-- Localized marketing strategies
-- Expansion planning for underpenetrated markets
-
-### **Product Management**
-- Identification of underperforming products for improvement
-- Pricing strategy adjustments based on performance
-- New product development insights
-- Product bundling opportunities
 
 ## 🛠️ Technical Implementation
 
-### **Data Requirements**
-- Transaction data (date, product, quantity, revenue)
-- Product catalog (categories, prices, SKUs)
-- Customer geographic data
-- Historical sales data (minimum 12 months recommended)
+### **Data Sources**
+- Netflix Movies and TV Shows dataset
+- Fields include: show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
 
-### **Visualization Tools**
-- Interactive charts and graphs
-- Geographic mapping capabilities
-- Real-time data refresh
-- Responsive design for multi-device access
 
-### **Analytics Features**
-- Drill-down capabilities from summary to detail
-- Custom date range selection
-- Export functionality for reports
-- KPI tracking with targets
+### **Analysis Techniques**
+- Descriptive statistics
+- Time series analysis
+- Geographic mapping
+- Text mining
+- Correlation analysis
+- Network analysis
+
+## 📊 Sample Questions Addressed
+1. What percentage of Netflix content is movies vs. TV shows?
+2. Which countries produce the most content on Netflix?
+3. What are the most common content ratings?
+4. How has Netflix's content library evolved over the years?
+5. Which directors/actors appear most frequently?
+6. What are the most popular genre combinations?
+7. Are there seasonal patterns in content additions?
+8. How does content duration vary by type and rating?
+
+
