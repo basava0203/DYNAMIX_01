@@ -1,7 +1,7 @@
-# Netflix Movies & TV Shows Analysis
+# Netflix Content Analysis
 
 ## 🎬 Project Overview
-A comprehensive data analysis project exploring Netflix's catalog of movies and TV shows to uncover insights about content trends, genre popularity, ratings distribution, and regional content availability.
+A comprehensive data analysis project exploring Netflix's catalog of movies to uncover insights about content trends, genre popularity, ratings distribution, and regional content availability.
 
 ## 🎯 Purpose
 To analyze Netflix's content library and provide data-driven insights that can inform content acquisition, production decisions, and user engagement strategies.
@@ -9,7 +9,7 @@ To analyze Netflix's content library and provide data-driven insights that can i
 ## 🔍 Key Insights You'll Discover
 
 ### **Content Composition**
-- Movie vs. TV show distribution
+- Movies distribution across regions
 - Content addition trends over time
 - Release patterns across decades
 - Content duration analysis
@@ -44,7 +44,7 @@ To analyze Netflix's content library and provide data-driven insights that can i
 ## 🛠️ Technical Implementation
 
 ### **Data Sources**
-- Netflix Movies and TV Shows dataset
+- Netflix Movies dataset
 - Fields include: show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
 
 
